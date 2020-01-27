@@ -1,4 +1,4 @@
-## Folder containing class material for ECON178 - Winter 2019
+## Folder containing class material for ECON178 - Winter 2020
 
 
 
@@ -6,4 +6,4 @@
 
 - Lecture 1 <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lec1.ipynb' style="color:blue"> Lecture note </a>
 
-- Lecture 2 < href = https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture2.ipynb style="color:blue"> Lecture note </a>
+- Lecture 2 <a href = https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture2.ipynb style="color:blue"> Lecture note </a>
