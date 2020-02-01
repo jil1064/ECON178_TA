@@ -7,3 +7,7 @@
 - Lecture 1 <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lec1.ipynb' style="color:blue"> Lecture note </a>
 
 - Lecture 2 <a href = https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture2.ipynb style="color:blue"> Lecture note </a>
+
+- Homework1: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Solutions%20PS1.ipynb' style="color:blue"> Solutions </a>
+
+- Homework2:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lec2%20-%20Additional%20Exercises.ipynb' style="color:blue"> Exercises </a>
