@@ -11,3 +11,6 @@
 - Homework1: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Solutions%20PS1.ipynb' style="color:blue"> Solutions </a>
 
 - Homework2:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lec2%20-%20Additional%20Exercises.ipynb' style="color:blue"> Exercises </a>
+
+
+- Lecture 3:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture3.ipynb' style="color:blue"> Lecture </a>
