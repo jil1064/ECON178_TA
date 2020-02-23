@@ -10,7 +10,7 @@
 
 - Homework1: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Solutions%20PS1.ipynb' style="color:blue"> Solutions </a>
 
-- Homework2:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lec2%20-%20Additional%20Exercises.ipynb' style="color:blue"> Exercises </a>, <a href = https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/additional_programs/skeleton_HW2.R> Skeleton Exercises </a>,  <a href = https://github.com/dviviano/ECON178_TA/blob/master/data/wine-white.txt> white wine dataset </a>, <a href = https://github.com/dviviano/ECON178_TA/blob/master/data/student.matG.txt> student dataset </a>
+- Homework2:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lec2%20-%20Additional%20Exercises.ipynb' style="color:blue"> Exercises </a>, <a href = https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/additional_programs/skeleton_HW2.R> Skeleton Exercises </a>,  <a href = https://github.com/dviviano/ECON178_TA/blob/master/data/wine-white.txt> white wine dataset </a>, <a href = https://github.com/dviviano/ECON178_TA/blob/master/data/student.matG.txt> student dataset </a>, <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Solutions%20PS2.ipynb' style = 'color:blue'> solutions  </a>
 
 
 - Lecture 3:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture3.ipynb' style="color:blue"> Lecture </a>
@@ -18,5 +18,7 @@
 - Lecture 4:  <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lectur4.ipynb' style="color:blue"> Lecture </a>
 
 - Lecture 5: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture5.ipynb' style="color:blue"> Lecture </a>
+
+- Lecture 6: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture%206.ipynb' style="color:blue"> Lecture </a>
 
 
