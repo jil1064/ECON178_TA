@@ -16,6 +16,7 @@
 
 - Lecture 6: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture%206.ipynb' style="color:blue"> Lecture </a>
 
+- Lecture 7: <a href = 'https://github.com/dviviano/ECON178_TA/blob/master/TA_lectures/Lecture7.ipynb' style="color:blue"> Lecture </a>
 
 ### Homeworks 
 
